@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyntaxAndSyntaxSugarExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9040d0dd3419719e3092505bdac0e545f3f010")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182bff1082f9e404869048e2bced9f436039f2da")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyntaxAndSyntaxSugarExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyntaxAndSyntaxSugarExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
